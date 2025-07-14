@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +170,13 @@
   },
   "active": "6b1357436d95371a",
   "lastOpenFiles": [
-    "1的实数次幂.md",
-    "Function Graph.md",
-    "maths.md",
+    "calculus/000. 常用结论.md",
+    "calculus/00. 公式.md",
     "calculus/1. 函数与极限.md",
+    "calculus/0. 中英文对照.md",
+    "Function Graph.md",
+    "1的实数次幂.md",
+    "maths.md",
     "calculus",
     "微积分.md",
     "未命名 1.md",
