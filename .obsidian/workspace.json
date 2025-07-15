@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculus/1. 函数与极限.md",
+                "file": "linear algebra/1. 向量空间及其性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 函数与极限"
+              "title": "1. 向量空间及其性质"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calculus/1. 函数与极限.md",
+                "file": "linear algebra/1. 向量空间及其性质.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1. 函数与极限 的大纲"
+              "title": "1. 向量空间及其性质 的大纲"
             }
           }
         ],
@@ -170,12 +170,14 @@
   },
   "active": "6b1357436d95371a",
   "lastOpenFiles": [
+    "calculus/1. 函数与极限.md",
+    "linear algebra/1. 向量空间及其性质.md",
+    "linear algebra",
+    "calculus/0. 中英文对照.md",
+    "1的实数次幂.md",
     "calculus/000. 常用结论.md",
     "calculus/00. 公式.md",
-    "calculus/1. 函数与极限.md",
-    "calculus/0. 中英文对照.md",
     "Function Graph.md",
-    "1的实数次幂.md",
     "maths.md",
     "calculus",
     "微积分.md",
