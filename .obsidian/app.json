@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "showLineNumber": true
 }

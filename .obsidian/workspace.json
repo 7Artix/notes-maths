@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60e9c518b49e3559",
+        "id": "f46742d0a8a76225",
         "type": "tabs",
         "children": [
           {
-            "id": "6b1357436d95371a",
+            "id": "7d219b48a6802adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,10 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6b1357436d95371a",
+  "active": "7d219b48a6802adf",
   "lastOpenFiles": [
-    "calculus/1. 函数与极限.md",
     "linear algebra/1. 向量空间及其性质.md",
+    "probability",
+    "calculus/1. 函数与极限.md",
     "linear algebra",
     "calculus/0. 中英文对照.md",
     "1的实数次幂.md",
